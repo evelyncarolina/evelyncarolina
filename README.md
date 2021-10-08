@@ -25,9 +25,7 @@
   <img align = "center" height = "30" width = "30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Evelyn-pic" height="100" src="https://i.imgur.com/pV3tvgw.png">
 </div>
-  <div>
-   ![Snake animation](https://github.com/evelyncarolina/evelyncarolina/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
 ##
   
 <div> 
