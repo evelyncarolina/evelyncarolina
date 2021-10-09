@@ -4,8 +4,8 @@
 - 🌱 Atualmente, estou aprendendo Angular, Bootsrap, TypeScrip, HTML & CSS
 - 👩🏻‍🎓 Me formando na Generation Brasil como Desenvolvedora Java Full Stack
 - 😄 Pronomes: Ela / Dela
-- 👾 Tenho um game chamado Demand > https://evyeve.itch.io/demand
-- ✨ Curiosidade: sou voluntaria numa ONG muito amorzinho chama Fly Educação e Cultura. 
+- 👾 Jogue meu game Demand https://evyeve.itch.io/demand
+- ✨ Curiosidade: sou voluntária numa ONG muito amorzinho chamada Fly Educação e Cultura. 
 
 <div align="center">
   <a href="https://github.com/evelyncarolina">
