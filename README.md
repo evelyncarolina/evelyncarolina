@@ -1,4 +1,4 @@
-<div><img align = "center" src = "https://i.imgur.com/gwDiA3a.png"></div>
+<div><img align = "center" src = "https://i.imgur.com/iqbsyqg.png"></div>
 
 ### Oii sou a Evelyn 👩🏻‍🦱
 - 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
