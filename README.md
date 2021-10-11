@@ -1,4 +1,6 @@
 ### Oii sou a Evelyn 👩🏻‍🦱
+<div><img align = "center" src = "https://i.imgur.com/XC1LFpj.png"></div>
+
 
 - 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
 - 🌱 Atualmente, estou aprendendo Angular, Bootsrap, TypeScrip, HTML & CSS
