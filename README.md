@@ -1,6 +1,6 @@
 <img align = "center" src = "https://i.imgur.com/NqfZajk.png">
 
-### Oii sou a Evelyn 👩🏻‍🦱
+### Sou a Evelyn 👩🏻‍🦱
 - 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
 - 🌱 Atualmente, estou aprendendo Angular, Bootsrap, TypeScrip, HTML & CSS
 - 👩🏻‍🎓 Me formando na Generation Brasil como Desenvolvedora Java Full Stack
