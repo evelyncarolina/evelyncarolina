@@ -15,12 +15,10 @@
 </div>
   
 <div style = "display: inline_block"> <br>
-  <img align = "center" height = "30" width = "30" src = "https://img.icons8.com/material/452/java-coffee-cup-logo.png">
-  <img align = "center" height = "50" width = "30" src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align = "center" height = "30" width = "30" src = "https://user-images.githubusercontent.com/33158051/103925017-e7673b80-50e4-11eb-9379-ceb82e3f382c.png">
-  <img align = "center" height = "30" width = "30" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align = "center" width = "40" src = "https://i.imgur.com/6Sdo1pl.png">
+  <img align = "center" width = "50" src = "https://i.imgur.com/emPAeK4.png">
   <img align = "center" height = "30" width = "30" src = "https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-  <img align = "center" height = "30" width = "30" src = "https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align = "center" width = "40" src = "https://i.imgur.com/4LJ7wN1.png">
   <img align = "center" height = "30" width = "30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align = "center" height = "30" width = "30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align = "center" height = "30" width = "30" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
