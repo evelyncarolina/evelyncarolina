@@ -2,7 +2,7 @@
 
 ### Sou a Evelyn 👩🏻‍🦱
 - 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
-- 🌱 Atualmente, estou aprendendo Angular, Bootsrap, TypeScript, HTML & CSS
+- 🌱 Atualmente, estou aprendendo Angular, Bootstrap, TypeScript, HTML & CSS
 - 👩🏻‍🎓 Me formando na Generation Brasil como Desenvolvedora Java Full Stack
 - 😄 Pronomes: Ela / Dela
 - 👾 Jogue meu game Demand https://evyeve.itch.io/demand
