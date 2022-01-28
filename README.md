@@ -2,8 +2,9 @@
 
 ### Sou a Evelyn 👩🏻‍🦱
 - 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
-- 🌱 Atualmente, estou aprendendo Angular, Bootstrap, TypeScript, HTML & CSS
-- 👩🏻‍🎓 Me formando na Generation Brasil como Desenvolvedora Java Full Stack
+- 🌱 Atualmente, estou aprendendo Angular, Bootstrap, TypeScript, HTML & CS
+- 🦋 Estudando na WoMarkersCode um Bootcamp para mulheres Desenvolvedoras Java
+- 👩🏻‍🎓 Formada na Generation Brasil como Desenvolvedora Java Full Stack
 - 😄 Pronomes: Ela / Dela
 - 👾 Jogue meu game Demand https://evyeve.itch.io/demand
 - ✨ Curiosidade: sou voluntária numa ONG muito amorzinho chamada Fly Educação e Cultura. 
