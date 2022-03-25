@@ -1,7 +1,7 @@
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
 ### Sou a Evelyn 👩🏻‍🦱
-- 👩🏻‍💻 Buscando um trabalho na área de Desenvolvimento Web
+- 👩🏻‍💻 Trabalhando na Carambora Tech desenvolvendo para PwC
 - 🌱 Atualmente, estou aprendendo Angular, Bootstrap, TypeScript, HTML & CS
 - 🦋 Estudando na WoMakersCode um Bootcamp para mulheres Desenvolvedoras Java
 - 👩🏻‍🎓 Formada na Generation Brasil como Desenvolvedora Java Full Stack
