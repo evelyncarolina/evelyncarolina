@@ -1,7 +1,7 @@
 <img align = "center" src = "https://i.imgur.com/kPjGg76.png">
 
 ### Sou a Evelyn 👩🏻‍🦱
-- 👩🏻‍💻 Trabalhando na Carambora Tech desenvolvendo para PwC
+- 👩🏻‍💻 Trabalhando na Carambora Tech desenvolvendo projeto para PwC, ultilizando as tecnologias Python, Machine Learning e Databricks.
 - 🌱 Atualmente, estou aprendendo Angular, Bootstrap, TypeScript, HTML & CS
 - 🦋 Estudando na WoMakersCode um Bootcamp para mulheres Desenvolvedoras Java
 - 👩🏻‍🎓 Formada na Generation Brasil como Desenvolvedora Java Full Stack
