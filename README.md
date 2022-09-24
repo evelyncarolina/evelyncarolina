@@ -6,8 +6,9 @@
 - 🦋 Estudando Análise e Desenvolvimento de Sistemas
 - 👩🏻‍🎓 Formada na Generation Brasil como Desenvolvedora Java Full Stack
 - 😄 Pronomes: Ela / Dela
-- 👾 Jogue meu game Demand https://evyeve.itch.io/demand
-- ✨ Curiosidade: sou voluntária numa ONG muito amorzinho chamada Fly Educação e Cultura. 
+- 👾 Jogue meu game [Demand](https://evyeve.itch.io/demand)
+- Dê uma espiada no meu [Portfólio](https://evelyn-carolina.vercel.app/home)
+- ✨ Curiosidade: fui voluntária numa ONG muito amorzinho chamada Fly Educação e Cultura. 
 
 <div align="center">
   <a href="https://github.com/evelyncarolina">
