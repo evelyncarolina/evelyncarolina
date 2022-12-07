@@ -2,7 +2,7 @@
 
 ### Sou a Evelyn 👩🏻‍🦱
 - 👩🏻‍💻 Trabalhei na Carambora Tech desenvolvendo projeto para PwC, ultilizando as tecnologias Python, Machine Learning e Databricks.
-- 🌱 Atualmente, estou aprendendo Front End com Rocketseat
+- 🚀Atualmente trabalho na PwC Brasil, na área SDC cuidando de processos internos de automação da empresa
 - 🦋 Estudando Análise e Desenvolvimento de Sistemas
 - 👩🏻‍🎓 Formada na Generation Brasil como Desenvolvedora Java Full Stack
 - 😄 Pronomes: Ela / Dela
